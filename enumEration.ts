@@ -7,3 +7,4 @@ enum ContractStatus {
 let employeeStatus: ContractStatus = ContractStatus.Temp;
 
 console.log(ContractStatus[employeeStatus]);
+//another example of comment 
